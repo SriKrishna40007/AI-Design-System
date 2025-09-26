@@ -1,0 +1,5 @@
+{
+  "name": "AI Design Platform",
+  "description": "An AI-Powered Design Optimization and Validation Platform using a multi-agent system to generate, test, and validate creative assets. It features agents for creative generation, A/B testing, and accessibility/compliance checks.",
+  "requestFramePermissions": []
+}
